@@ -1,4 +1,4 @@
-# Breast-Cancer-Wisoncsin-Classification-Project
+# Breast-Cancer-Wisconsin-Classification-Project
 
 This project aims to classify breast cancer tumors as malignant or benign using various machine learning models. The classification is based on features computed from digitized images of fine needle aspirates (FNA) of breast masses, which describe the characteristics of the cell nuclei.
 
